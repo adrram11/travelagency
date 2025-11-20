@@ -67,7 +67,7 @@ body::-webkit-scrollbar-thumb
 }
 
 header {
-    background-image: url("images/adristravelbanner.jpg");
+    background-image: url("/images/adristravelbanner.jpg");
     height: auto;
     padding: 100px 100px;
 }
